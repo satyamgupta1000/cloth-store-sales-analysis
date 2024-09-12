@@ -40,7 +40,6 @@
 ## Category Insights
 + The dashboard provides various clothing categories:
   - **Ethnic Dress**, **Blouse**, **Kurta**, **Saree**, and **Western Dress** are top-selling categories.
-  - The specific sales per category are not displayed but can be further analyzed.
 
 ## Monthly Trends
 + **Key months for sales**:
